@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://64.media.tumblr.com/ca59af290eba3b214400372d70fe1d69/bcf004874d1561a0-17/s400x600/a99bfcba62724c9cecd0ddb7f1e4297d453c9484.gif"  />
-</div>
+<h1 align="center">hey there i'm Sam👋</h1>
 
 ###
 
@@ -27,10 +25,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=contrerascs.contrerascs&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -73,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=contrerascs&locale=en&mode=daily&theme=github-light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=contrerascs&locale=en&mode=daily&theme=blood&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
